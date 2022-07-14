@@ -6,6 +6,7 @@ include "main.h"
  * @n: The length of int
  * Return: pointer to the resulting string dest
  */
+
 char *_strncat(char *dest, char *src, int n)
 {
 	int i, j;
