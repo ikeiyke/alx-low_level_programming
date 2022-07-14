@@ -1,1 +1,1 @@
-This section contains more work on pointers, array and strings
+This section contains work on C
